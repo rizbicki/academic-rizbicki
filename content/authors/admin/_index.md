@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Rafael Izbicki
 
 # Username (this should match the folder name)
 authors:
@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Assistant Professor of Statistics
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Deparment of Statistics, Federal University of São Carlos (UFSCar)
+  url: "http://www.des.ufscar.br/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
+  - course: PhD in Statistics
+    institution: Carnegie Mellon University
+    year: 2014
+  - course: Master in Statistics
+    institution: University of São Paulo
+    year: 2010
+  - course: BSc in Statistics
+    institution: University of São Paulo
     year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -43,17 +43,17 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  icon_pack: fa
+  link: 'mailto:rafaelizbicki@gmail.com'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=IldCv5AAAAAJ&hl=en
+- icon: lattes
+  icon_pack: ai
+  link: http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4269225J9
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/rizbicki
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
 # - icon: cv
@@ -70,6 +70,15 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I'm a statistician born in São Paulo, Brazil, and graduated from the University of São Paulo (USP) in 2008. From 2010 to 2014, I was a PhD student at [Carnegie Mellon University](http://www.stat.cmu.edu/) (CMU), USA. Currently, I'm at the Department of Statistics of the Federal University of São Carlos (UFSCar).
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+I’m interested in theory, methodology, applications, and foundations of statististics and machine learning.
+
+Research groups:
+
+<a href="http://www.small.ufscar.br/"><img src="http://www.small.ufscar.br/figures/logo.png" alt="drawing"   width="200px" style="float: left"/></a>
+
+<a href="http://www.gis.des.ufscar.br/"><img src="http://www.gis.des.ufscar.br/meetings/2017maxent/imagens/logo_gis.png" alt="drawing"  width="120px" style="float: center"/></a>
+
+In case you are looking for Rafael Stern, his site is
+[here](http://www.rafaelstern.science).
