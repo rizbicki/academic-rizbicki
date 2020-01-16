@@ -16,8 +16,8 @@ weight = 60
 
 +++
 
-- [Data Mining](piazza.com/federal_university_of_so_carlos_ufscar/spring2020/158518/home) (2020_01)
-- [Bayesian Inference](piazza.com/federal_university_of_so_carlos_ufscar/spring2020/est104) (graduate level, 2020_01)
+- [Data Mining](http://piazza.com/federal_university_of_so_carlos_ufscar/spring2020/158518/home) (2020_01)
+- [Bayesian Inference](http://piazza.com/federal_university_of_so_carlos_ufscar/spring2020/est104) (graduate level, 2020_01)
 - [Bayesian Inference](https://tinyurl.com/bayes2019) (2019_02)
 - [Statistical Machine Learning](https://tinyurl.com/ufscar-sml2019) (graduate level; 2019_02)
 - [Introduction to Statistical Planning](http://piazza.com/federal_university_of_so_carlos_ufscar/spring2019/150061) (2019_01)
