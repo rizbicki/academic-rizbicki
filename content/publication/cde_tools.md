@@ -1,10 +1,10 @@
 +++
-title = "Comparing probabilistic predictive models applied to football"
-date = 2019-01-01T00:00:00
+title = "Conditional Density Estimation Tools in Python and R with Applications to Photometric Redshifts and Likelihood-Free Cosmological Inference"
+date = 2020-01-02T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Diniz, M. A. ", "Izbicki, R.","Lopes, D. L. ", "Salasar, L. E. B."]
+authors = ["Dalmasso, N.","Pospisil, T.","Lee, A.B.","Izbicki, R.","Freeman, P.E.","Malz, A. I."]
 
 # Publication type.
 # Legend:
@@ -18,11 +18,11 @@ authors = ["Diniz, M. A. ", "Izbicki, R.","Lopes, D. L. ", "Salasar, L. E. B."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of the Operational Research Society."
+publication = "Astronomy and Computing"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "We propose two Bayesian multinomial-Dirichlet models to predict the final outcome of football (soccer) matches and compare them to three well-known models regarding their predictive power. All the models predicted the full-time results of 1710 matches of the first division of the Brazilian football championship and the comparison used three proper scoring rules, the proportion of errors and a calibration assessment. We also provide a goodness of fit measure. Our results show that multinomial-Dirichlet models are not only competitive with standard approaches, but they are also well calibrated and present reasonable goodness of fit."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -40,12 +40,12 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Bayesian Statistics","Sports"]
+tags = ["Nonparametric Statistics","Density Ratio","Selection Bias","Astrostatistics","Photometric Redshift Prediction"]
 categories = ["paper"]
 
 # Links (optional).
-url_pdf = "https://www.tandfonline.com/eprint/R4CqDXZsPEAAjmNkqDJg/full"
-#url_preprint = ""
+#url_pdf = "https://academic.oup.com/mnras/article-abstract/468/4/4556/3092378"
+url_preprint = "https://arxiv.org/abs/1908.11523"
 #url_code = ""
 #url_dataset = "#"
 #url_project = "#"

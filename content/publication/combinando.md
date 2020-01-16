@@ -1,10 +1,11 @@
 +++
-title = "Comparing probabilistic predictive models applied to football"
-date = 2019-01-01T00:00:00
+title = "Combinando métodos de aprendizado supervisionado para a melhoria da previsão do redshift de galáxia"
+date = 2020-01-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Diniz, M. A. ", "Izbicki, R.","Lopes, D. L. ", "Salasar, L. E. B."]
+authors = ["Musetti, M.","Izbicki, R."]
+categories = ["paper","Portuguese"]
 
 # Publication type.
 # Legend:
@@ -18,11 +19,11 @@ authors = ["Diniz, M. A. ", "Izbicki, R.","Lopes, D. L. ", "Salasar, L. E. B."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Journal of the Operational Research Society."
+publication = "TEMA – Tendências em Matemática Aplicada e Computacional"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = "We propose two Bayesian multinomial-Dirichlet models to predict the final outcome of football (soccer) matches and compare them to three well-known models regarding their predictive power. All the models predicted the full-time results of 1710 matches of the first division of the Brazilian football championship and the comparison used three proper scoring rules, the proportion of errors and a calibration assessment. We also provide a goodness of fit measure. Our results show that multinomial-Dirichlet models are not only competitive with standard approaches, but they are also well calibrated and present reasonable goodness of fit."
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
@@ -40,11 +41,10 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Bayesian Statistics","Sports"]
-categories = ["paper"]
+tags = ["Machine Learning"]
 
 # Links (optional).
-url_pdf = "https://www.tandfonline.com/eprint/R4CqDXZsPEAAjmNkqDJg/full"
+url_pdf = "https://tema.sbmac.org.br/tema/article/view/924/735"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = "#"

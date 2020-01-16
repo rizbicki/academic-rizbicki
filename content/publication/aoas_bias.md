@@ -18,7 +18,7 @@ authors = ["Izbicki, R.", "Lee, A.B.", "Freeman, P.E."]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "The Annals of Applied Statistics."
+publication = "The Annals of Applied Statistics"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.

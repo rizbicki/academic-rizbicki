@@ -6,7 +6,7 @@ featured = true
 
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Vaz, A. F, ", "Izbicki, R.","Stern, R. B."]
+authors = ["Vaz, A. F. ", "Izbicki, R.","Stern, R. B."]
 
 # Publication type.
 # Legend:
