@@ -26,7 +26,8 @@ Master
 
 - Felipe Hernandez Bisca – (current student)
 - Deborah Bassi Stern – (current student)
-- Victor Coscrato – (current student)
+- Víctor Candido Reis – (current student)
+- Victor Coscrato – (2017-2018)
 - Rafael de Carvalho Ceregatti – A bayesian nonparametric approach for the two-sample problem (2016-2019, co-advisor)
 - Afonso Fernandes Vaz – Improved quantification under domain shift (2016-2018)
 - Marco Henrique de Almeida Inacio – Comparing two populations using Bayesian Fourier series density estimation (2016-2017)
@@ -36,7 +37,7 @@ Master
 Undergraduate
 
 - Mateus Borges Comito (CNPq)  (current student)
-- Víctor Candido Reis (CNPq; FAPESP) (current student)
+- Víctor Candido Reis (CNPq; FAPESP) (2018-2019)
 - Macela Musetti - Combining photometric redshift estimators  (2018)
 - Daniel Simionato (CNPq) – Inferência Via Métodos Preditivos (2017-2018)
 - Andressa de Jesus Dantas – Understanding Zika patients (2017-2018)

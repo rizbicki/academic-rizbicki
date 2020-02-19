@@ -1,6 +1,6 @@
 +++
 title = "Flexible distribution-free conditional predictive bands using density estimators"
-date = 2020-12-01T00:00:00
+date = 2020-02-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
@@ -29,7 +29,7 @@ abstract_short = ""
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-featured = false
+featured = true
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

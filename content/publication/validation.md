@@ -1,11 +1,11 @@
 +++
 title = "Validation of Approximate Likelihood and Emulator Models for Computationally Intensive Simulations"
-date = 2020-11-01T00:03:00
+date = 2020-01-05T00:03:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
 authors = ["Dalmasso, N.","Lee, A. B.","Izbicki, R.","Pospisil, T.", "Kim, I.", "Lin, C."]
-
+  
 # Publication type.
 # Legend:
 # 0 = Uncategorized
