@@ -41,7 +41,7 @@ selected = false
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Machine Learning"]
+tags = ["Machine Learning","Meta-learning"]
 
 # Links (optional).
 url_pdf = "https://tema.sbmac.org.br/tema/article/view/924/735"

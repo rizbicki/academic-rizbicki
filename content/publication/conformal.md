@@ -1,10 +1,10 @@
 +++
-title = "Pragmatic hypotheses in the evolution of Science"
-date = 2019-09-01T00:00:00
+title = "Flexible distribution-free conditional predictive bands using density estimators"
+date = 2020-12-01T00:00:00
 draft = false
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["Esteves, L. G.","Izbicki, R.","Stern, J. M.","Stern, R. B."]
+authors = ["Izbicki, R.","Shimizu, G. Y.","Stern, R. B."]
 
 # Publication type.
 # Legend:
@@ -15,21 +15,21 @@ authors = ["Esteves, L. G.","Izbicki, R.","Stern, J. M.","Stern, R. B."]
 # 4 = Report
 # 5 = Book
 # 6 = Book section
-publication_types = ["2"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "Entropy"
+publication = "Proceedings of Machine Learning Research (AISTATS Track)"
 #publication_short = "In *ICMEW*"
 
 # Abstract and optional shortened version.
-abstract = " "
+abstract = ""
 abstract_short = ""
 
 # Featured image thumbnail (optional)
 image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = false
+featured = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -37,15 +37,15 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references `content/project/deep-learning.md`.
 #   Otherwise, set `projects = []`.
 # projects = ["example-external-project"]
+categories = ["paper"]
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
-tags = ["Hypothesis Tests","Logical Consistency"]
-categories = ["paper"]
+tags = ["Machine Learning","Conference","Conformal Predictions"]
 
 # Links (optional).
-url_pdf = "https://www.mdpi.com/1099-4300/21/9/883/htm"
-#url_preprint = "https://arxiv.org/pdf/1704.08095.pdf"
+#url_pdf = "http://proceedings.mlr.press/v33/izbicki14.pdf"
+url_preprint = "https://arxiv.org/pdf/1910.05575.pdf"
 #url_code = ""
 #url_dataset = "#"
 #url_project = "#"
